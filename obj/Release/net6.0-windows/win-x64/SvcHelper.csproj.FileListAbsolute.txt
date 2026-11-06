@@ -1,0 +1,13 @@
+/home/kali/InTheCyber Interview/SvcHelper/bin/Release/net6.0-windows/win-x64/SvcHelper.exe
+/home/kali/InTheCyber Interview/SvcHelper/bin/Release/net6.0-windows/win-x64/SvcHelper.deps.json
+/home/kali/InTheCyber Interview/SvcHelper/bin/Release/net6.0-windows/win-x64/SvcHelper.runtimeconfig.json
+/home/kali/InTheCyber Interview/SvcHelper/bin/Release/net6.0-windows/win-x64/SvcHelper.dll
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net6.0-windows/win-x64/SvcHelper.csproj.AssemblyReference.cache
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net6.0-windows/win-x64/SvcHelper.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net6.0-windows/win-x64/SvcHelper.AssemblyInfoInputs.cache
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net6.0-windows/win-x64/SvcHelper.AssemblyInfo.cs
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net6.0-windows/win-x64/SvcHelper.csproj.CoreCompileInputs.cache
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net6.0-windows/win-x64/SvcHelper.dll
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net6.0-windows/win-x64/refint/SvcHelper.dll
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net6.0-windows/win-x64/SvcHelper.genruntimeconfig.cache
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net6.0-windows/win-x64/ref/SvcHelper.dll

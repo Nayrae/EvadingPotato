@@ -1,0 +1,10 @@
+/home/kali/InTheCyber Interview/SvcHelper/bin/Release/net48/SvcHelper.exe.config
+/home/kali/InTheCyber Interview/SvcHelper/bin/Release/net48/SvcHelper.exe
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net48/SvcHelper.csproj.SuggestedBindingRedirects.cache
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net48/SvcHelper.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net48/SvcHelper.AssemblyInfoInputs.cache
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net48/SvcHelper.AssemblyInfo.cs
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net48/SvcHelper.csproj.CoreCompileInputs.cache
+/home/kali/InTheCyber Interview/SvcHelper/obj/Release/net48/SvcHelper.exe
+/home/kali/InTheCyber Interview/build/SvcHelper.exe.config
+/home/kali/InTheCyber Interview/build/SvcHelper.exe

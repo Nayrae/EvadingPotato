@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WinSvcMgr
+build_property.ProjectDir = /home/kali/InTheCyber Interview/SvcHelper/

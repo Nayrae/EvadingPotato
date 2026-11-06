@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvRaBCFeu973r6VEXO2TFQRoR4DkcKozFwTJu1k82fUjDJmnjUwjcePKwcP/rJKBnDOyMr7tmKd9Vs7s1ULKow==",
+  "success": true,
+  "projectFilePath": "/home/kali/InTheCyber Interview/SvcHelper/SvcHelper.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1 @@
+/home/kali/InTheCyber Interview/build/SvcHelper.exe
